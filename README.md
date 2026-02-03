@@ -108,6 +108,43 @@ This GitHub represents my **learning journey, analytics thinking, and production
 
 ---
 
+---
+
+## 🧰 Skills & Tools
+
+### 📊 Data Analytics
+- **SQL:** Joins, Subqueries, CTEs, Window Functions, Aggregations  
+- **Power BI:** Interactive dashboards, KPIs, DAX basics  
+- **Excel:** Data cleaning, pivot tables, analysis  
+- **Python:** Pandas, NumPy, Matplotlib (data analysis & visualization)
+
+### 🤖 Data Science & AI
+- **Machine Learning:** Supervised & unsupervised learning fundamentals  
+- **AI Applications:** Invoice parsing, fraud detection, anomaly detection  
+- **OCR & NLP:** Data extraction from unstructured documents  
+- **Model Evaluation:** Accuracy, precision, recall, validation techniques  
+
+### 💻 Development & Engineering
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+- **APIs:** RESTful APIs, authentication, role-based access  
+- **Version Control:** Git, GitHub  
+
+### 🛠 Tools & Platforms
+- Power BI  
+- VS Code  
+- GitHub  
+- Postman  
+- Jupyter Notebook  
+- Firebase  
+- Chart.js  
+
+---
+
+
+---
+
 ## 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/rahul-ghorpade03  
 - **GitHub:** https://github.com/rahullllll03  
